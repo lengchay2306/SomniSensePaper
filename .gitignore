@@ -1,3 +1,24 @@
+.env
+*.env
+secrets.json
+api_key.txt
+config.py
+
+_pycache_/
+*.pyc
+*.pyo
+.venv/
+.ipynb_checkpoints
+
+.DS_Store
+desktop.including
+Thums.db
+
+#Large files
+# data/raw/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
