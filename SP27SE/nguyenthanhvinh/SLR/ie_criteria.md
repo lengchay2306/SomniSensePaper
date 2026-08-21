@@ -45,7 +45,7 @@
 | Code | Criterion | Description |
 |---|---|---|
 | **EC-Y** | Publication Year | Studies published **before 2020**, unless specifically required as a key reference by the research team. |
-| **EC-P** | Unrelated Research Problem | Studies that do not address **sleep, sleep quality, sleep-disordered breathing, OSA, or AHI**. |
+| **EC-P** | Unrelated Research Problem | Studies that do not address **sleep, sleep quality, sleep-disordered breathing, OSA, or AHI, Adult Paticipants**. |
 | **EC-I** | Incompatible Technology | Studies relying exclusively on **specialized wearable sensors** or technologies that cannot be reasonably applied to the non-wearable SomniSense system. |
 | **EC-O** | Unrelated Outcomes | Studies focusing only on **stroke or cardiovascular disease without a direct connection to sleep, OSA, or AHI**. |
 | **EC-E** | Insufficient Evidence | Studies without sufficient **experimental data, methodology, or quantitative results** to evaluate their findings. |
