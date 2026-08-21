@@ -1,18 +1,3 @@
-| Code | Description / Explanation | Example |
-| :--- | :--- | :--- |
-| IC-L | Paper written in English | |
-| IC-T | Published in a conference or journal (not a blog or thesis) | |
-| IC-E | Contains at least one numerical result in a Table or Figure | |
-| IC-Y | Minimum year + reason | **IC-Y:** From 2020 onwards, to ensure the use of up-to-date research on sleep monitoring, OSA/AHI, and non-wearable sensing methods. |
-| IC-P | Specific task (extracted from PICO.P) | **IC-P:** Studies on sleep monitoring, sleep quality assessment, detection of sleep-disordered breathing, OSA, or AHI in adults. |
-| IC-I | Specific technique (extracted from PICO.I) | **IC-I:** Using audio/respiration/snoring, motion sensors/accelerometers, or active sonar for sleep monitoring or detecting abnormal breathing events via non-wearable methods. |
-| EC-D | Duplicate of an existing paper | |
-| EC-A | Full-text unavailable (cannot be downloaded) | |
-| EC-S | Under 4 pages (abstract, poster) | |
-| EC-N | No experiments (vision paper, tutorial) | |
-| EC-O | At least 2 tasks often confused with IC-P | **EC-O:** Exclude studies focusing solely on stroke/cardiovascular diseases without direct relation to sleep, OSA, or AHI; or studies using specialized wearable devices unsuitable for non-wearable systems. |
-
-
 
 
 
@@ -27,7 +12,7 @@
 
 ---
 
-# 2. Inclusion Criteria – Tiêu chí chọn bài báo
+# 2. Inclusion Criteria 
 
 | Code | Criterion | Description |
 |---|---|---|
@@ -40,7 +25,7 @@
 
 ---
 
-# 3. Exclusion Criteria – Tiêu chí loại bài báo
+# 3. Exclusion Criteria 
 
 | Code | Criterion | Description |
 |---|---|---|
