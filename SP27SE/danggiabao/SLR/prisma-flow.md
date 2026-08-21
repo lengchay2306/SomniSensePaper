@@ -14,7 +14,7 @@ GIAI ĐOẠN 2: SÀNG LỌC (SCREENING)
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ Sàng lọc Title & Abstract (N = 241) │
 │ ─────────────────────────────────────────────────────────────────────────── │
-│ ❌ Loại V1 (N = 204): │
+│ Loại V1 (N = 204): │
 │ • EC-O = 96 (Ngoài phạm vi / Không phải ngưng thở ban đêm) │
 │ • NO ABSTRACT = 69 (Thiếu bản tóm tắt, không đủ dữ liệu) │
 │ • EC-N = 17 (Bài tổng quan / Review / Editorial) │
@@ -27,7 +27,7 @@ GIAI ĐOẠN 2: SÀNG LỌC (SCREENING)
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ Full-text đọc (N = 37) (Gồm 35 Included + 2 Maybe từ V1) │
 │ ─────────────────────────────────────────────────────────────────────────── │
-│ ❌ Loại V2 (N = 24): │
+│ Loại V2 (N = 24): │
 │ • No access = 12 (Không truy cập được bài toàn văn) │
 │ • EC-W = 6 (Dán máy lên người / Cảm biến tiếp xúc cơ thể) │
 │ • EC-S = 3 (Tóm tắt kỷ yếu hội nghị ngắn, thiếu thông số) │
