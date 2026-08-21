@@ -1,3 +1,4 @@
-| Query | Database | Date | Result Numbers | After dedup |
-|---|---|---|---|---|
-| sleep monitoring AND sleep-disordered breathing AND sleep apnea AND audio-based | Pubmed/arXiv/OpenAlex | 20/8 | 77 | 77 |
+| Query                                                                                    | Database                                 | Date | Result Numbers |
+|------------------------------------------------------------------------------------------|------------------------------------------|------|----------------|
+| sleep monitoring AND sleep-disordered breathing AND sleep apnea AND audio-based          | Pubmed/arXiv/OpenAlex                    | 20/8 | 77             |
+| "sleep monitoring" AND ("OSA" OR "AHI") AND ("smartphone microphone" OR "accelerometer") | Google Scholar/arXiv/OpenAlex/IEE XPlore | 21/8 | 98             |
