@@ -1,44 +1,9 @@
-```text
-+---------------------------------------------------------------+
-|       Papers identified through database searching            |
-|       (N = 77)                                               |
-+---------------------------------------------------------------+
-                                │
-                                ▼
-+---------------------------------------------------------------+
-|       Records after duplicate removal                         |
-|       (N = 77)  
-+---------------------------------------------------------------+
-                                │
-                                ▼
-+---------------------------------------------------------------+
-|       Records screened via Title/Abstract (Vòng 1)            |
-|       Excluded (N = 51):                                      |
-|         • EC-P  = 1                            |
-|         • EC-S = 1 
-|          • EC-D =2                            |
-|         • EC-I  = 47                           |
-+---------------------------------------------------------------+
-                                │
-                                ▼
-+---------------------------------------------------------------+
-|       Full-text articles assessed for eligibility             |
-|       (N = 26)                                                |
-+---------------------------------------------------------------+
-                                │
-                                ▼
-+---------------------------------------------------------------+
-|       Full-text articles excluded (Vòng 2)                    |
-|       Excluded (N = 19):                                      |
-|         • EC-I = 14                                          |
-|         • EC-O = 1                                            |
-|         • EC-P = 1
-            • EC-D =3                                             |
-+---------------------------------------------------------------+
-                                │
-                                ▼
-+---------------------------------------------------------------+
-|       Studies included in qualitative synthesis               |
-|       (N = 6)  ← (Khớp số dòng Include trong 03)             |
-+---------------------------------------------------------------+
-```
+| PRISMA Flow Steps | Search 1 | Search 2 | Combined |
+| :--- | :--- | :--- | :--- |
+| Total records identified (Database Search) | 77 | 99 | 176 |
+| Records after deduplication (Dedup) | 77 | 98 | 175 |
+| Records screened in Round 1 (Title/Abstract) | 77 | 98 | 175 |
+| Records excluded in Round 1 | 51 | 12 | 63 |
+| Full-text articles assessed in Round 2 (Full-text) | 26 | 86 | 112 |
+| Articles excluded in Round 2 | 19 | 73 | 92 |
+| Final articles included | 6 | 14 | 20 |
