@@ -1,5 +1,3 @@
-# PRISMA 2020 Flow Diagram
-
 ```text
 [Paper từ database search (N = 241)]
 					↓
