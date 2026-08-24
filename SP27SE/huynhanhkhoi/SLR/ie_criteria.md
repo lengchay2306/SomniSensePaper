@@ -1,21 +1,21 @@
-# Tiêu chí Sàng lọc Bài báo (Inclusion/Exclusion Criteria)
+# Inclusion/Exclusion Criteria
 
-### 1. Các tiêu chí cố định (Standard Criteria - Bắt buộc)
-| Mã | Ý nghĩa |
+### 1. Standard Criteria (Mandatory)
+| Code | Meaning |
 | :--- | :--- |
-| **IC-L** | Paper viết bằng tiếng Anh |
-| **IC-T** | Đăng trên conference hoặc journal (không phải blog, thesis) |
-| **IC-E** | Có ít nhất 1 con số kết quả trong Table hoặc Figure |
-| **EC-D** | Trùng với paper đã có |
-| **EC-A** | Không tải được full-text |
-| **EC-S** | Dưới 4 trang (abstract, poster) |
-| **EC-N** | Không có thực nghiệm (vision paper, tutorial) |
+| **IC-L** | Paper written in English |
+| **IC-T** | Published in a conference or journal (not a blog, thesis) |
+| **IC-E** | Has at least 1 numerical result in a Table or Figure |
+| **EC-D** | Duplicate of an existing paper |
+| **EC-A** | Full-text is unavailable |
+| **EC-S** | Under 4 pages (abstract, poster) |
+| **EC-N** | No empirical experiment (vision paper, tutorial) |
 
-### 2. Các tiêu chí đặc thù (Project-Specific Criteria - Đề tài: SomniSense)
-| Mã (Code) | Tiêu chí (Criterion) | Mô tả chi tiết (Đã chuẩn hóa theo RBL Protocol) |
+### 2. Project-Specific Criteria (Topic: SomniSense)
+| Code | Criterion | Detailed Description (Standardized per RBL Protocol) |
 | :--- | :--- | :--- |
-| **IC-Y** | Năm xuất bản | **Từ năm 2021 đến nay:** Ưu tiên cập nhật các công nghệ Deep Learning, xử lý tín hiệu (Signal Processing) và kiến trúc Audio AI mới nhất trên nền tảng di động. |
-| **IC-P** | Tác vụ cốt lõi | Sàng lọc nguy cơ ngưng thở khi ngủ (OSA screening), phân loại sự kiện hô hấp/tiếng ngáy. Xây dựng cổng kiểm duyệt chất lượng tín hiệu (Signal Quality) hoặc đánh giá độ bền vững (robustness) của thuật toán trước tiếng ồn môi trường. |
-| **IC-I** | Nền tảng kỹ thuật | Bắt buộc sử dụng phương pháp không tiếp xúc thông qua **điện thoại thông minh (smartphone-first)**, tập trung vào xử lý âm thanh (audio) và/hoặc dữ liệu chuyển động (motion/accelerometer). Chấp nhận nghiên cứu dùng Radar/Sonar nếu có chung bài toán xử lý tín hiệu. |
-| **EC-O1** | Loại trừ Y khoa | Loại bỏ hoàn toàn các nghiên cứu dịch tễ học, tâm lý học, khảo sát biến chứng lâm sàng (đột quỵ, tim mạch) hoặc đánh giá hiệu quả của máy trợ thở (CPAP). Không dùng bài báo sử dụng bảng hỏi (PSQI) làm chuẩn đánh giá chính. |
-| **EC-O2** | Loại trừ Phần cứng | Bỏ qua các hệ thống sử dụng thiết bị y tế tiếp xúc làm hệ thống thu thập chính (như Smartwatch/Wearables, ECG, cảm biến dán cổ). *(Ngoại lệ: PSG hoặc HSAT được phép xuất hiện nếu chúng chỉ đóng vai trò là Nhãn đối chiếu - Ground Truth).* |
+| **IC-Y** | Publication Year | **From 2021 to present:** Prioritize updates on Deep Learning technologies, Signal Processing, and the latest Audio AI architectures on mobile platforms. |
+| **IC-P** | Core Task | Obstructive Sleep Apnea (OSA) screening, classification of respiratory events/snoring. Building a Signal Quality gate or evaluating algorithm robustness against environmental noise. |
+| **IC-I** | Technical Platform | Mandatory use of non-contact methods via **smartphones (smartphone-first)**, focusing on audio and/or motion/accelerometer data processing. Radar/Sonar studies are accepted if they share the same signal processing problem. |
+| **EC-O1** | Medical Exclusion | Completely exclude epidemiological, psychological studies, clinical complication surveys (stroke, cardiovascular), or CPAP efficacy evaluations. Papers using questionnaires (PSQI) as the primary evaluation standard are not used. |
+| **EC-O2** | Hardware Exclusion | Ignore systems using contact medical devices as the primary collection system (e.g., Smartwatch/Wearables, ECG, neck patch sensors). *(Exception: PSG or HSAT are allowed if they solely serve as Ground Truth labels).* |
