@@ -32,12 +32,10 @@
 | **EC-STAGE** | Classifies sleep stages (REM/NREM) only without apnea event detection or AHI calculation |
 | **EC-CSA** | Targets Central Sleep Apnea (CSA) or Cheyne-Stokes breathing exclusively |
 | **EC-SIMUL** | Uses awake simulated apnea, breath-holding, or nap tests under 2 hours |
-| **EC-PRO-MIC** | Uses external studio condenser microphones or dedicated sound cards |
 | **EC-SYS** | Focuses solely on system performance (battery drain, latency, UI) without clinical metrics |
 | **EC-BENCH** | Evaluated solely on public clinical benchmark databases (e.g., PhysioNet, UCD Sleep Apnea Database, SHHS, MESA) without primary smartphone data collection |
 | **EC-REV** | Literature surveys, systematic reviews, scoping reviews, or meta-analyses lacking primary software experiments |
 | **EC-GATE** | Smartphone functions merely as a Bluetooth data gateway, receiver, or UI display for external hardware |
-| **EC-EPOCH** | Restricts classification to isolated short audio frames/epochs (snore detection) without computing full-night hourly AHI |
 | **EC-CLINIC** | Clinical drug trials (e.g., Tirzepatide), surgical therapies (MMA, implants), dental appliances (MAD), CPAP compliance, or secondary OSA comorbidity studies (COVID-19, stroke, Parkinson, Alzheimer, heart failure) |
 | **EC-EAR-BED** | Utilizes smart earbuds/earables, smart pillows, under-mattress smart sheets, BCG/seismography, or RF/WiFi/UWB radar |
 | **EC-NO-ABS** | Missing abstract metadata and the title is non-explicit regarding smartphone apnea sensing |
